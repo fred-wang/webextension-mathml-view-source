@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "MathML View Source",
+  "version": "0.0.2",
+  "description": "A 'View MathML Source' context menu item",
+  "author": "Frédéric Wang",
+  "homepage_url": "https://github.com/fred-wang/webextension-mathml-view-source",
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  },
+  "default_locale": "en_US",
+  "background": {
+    "scripts": ["background.js"]
+  }
+}

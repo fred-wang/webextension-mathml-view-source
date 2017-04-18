@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "Исходный код MathML"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "д"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "Исходный код DOM MathML"
+    }
+}

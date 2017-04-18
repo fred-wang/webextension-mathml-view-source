@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "MathML のソースを表示"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "e"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "MathML の DOM ソース"
+    }
+}

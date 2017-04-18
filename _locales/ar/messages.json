@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "اعرض مصدر MathML"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "ص"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "مصدر DOM ل‍ MathML"
+    }
+}

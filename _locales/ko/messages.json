@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "MathML 소스"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "e"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "MathML의 DOM 소스"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "Xem mã nguồn MathML"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "X"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "Mã Nguồn DOM của MathML"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "Zobraziť zdrojový kód MathML"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "r"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "DOM zdrojový kód MathML"
+    }
+}

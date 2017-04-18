@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "Vis MathML-kildekode"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "k"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "DOM-kildekode for MathML"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "Pokaži izvorno kodo MathML"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "r"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "Izvorna koda DOM MathML"
+    }
+}

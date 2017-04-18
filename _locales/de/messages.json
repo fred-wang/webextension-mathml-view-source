@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "MathML-Quelle anzeigen"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "A"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "DOM des MathML-Quelltextes"
+    }
+}

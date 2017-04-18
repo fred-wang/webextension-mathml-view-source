@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "ดูโค้ด MathML"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "ก"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "ต้นฉบับ DOM ของ MathML"
+    }
+}

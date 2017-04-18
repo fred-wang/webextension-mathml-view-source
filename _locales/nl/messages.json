@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "MathML-bron bekijken"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "B"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "DOM-bron van MathML"
+    }
+}

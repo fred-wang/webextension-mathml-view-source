@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "Rodyti „MathML“ pirminį tekstą"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "d"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "DOM „MathML“ pirminis tekstas"
+    }
+}

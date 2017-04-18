@@ -1,0 +1,11 @@
+{
+    "viewPartialSourceForMathMLCmdLabel": {
+        "message": "Програмний код MathML"
+    },
+    "viewPartialSourceCmdAccessKey": {
+        "message": "к"
+    },
+    "viewMathMLSourceTitle": {
+        "message": "DOM-джерело MathML"
+    }
+}
