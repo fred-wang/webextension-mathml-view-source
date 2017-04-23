@@ -6,7 +6,7 @@
 
 document.addEventListener("DOMContentLoaded", function() {
   document.title = browser.i18n.getMessage("viewMathMLSourceTitle");
-  let port = browser.runtime.connect()
+  let port = browser.runtime.connect({name: "view-mathml-source"});
   port.onMessage.addListener((source) => {
     port.disconnect();
     document.getElementById("code").textContent = source;
