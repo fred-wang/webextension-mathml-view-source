@@ -7,6 +7,7 @@
   "homepage_url": "https://github.com/fred-wang/webextension-mathml-view-source",
   "icons": {
     "48": "icons/icon-48.png",
+    "64": "icons/icon-64.png",
     "96": "icons/icon-96.png"
   },
   "default_locale": "en_US",
